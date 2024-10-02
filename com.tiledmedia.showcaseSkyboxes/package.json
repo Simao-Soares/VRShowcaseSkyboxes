@@ -1,0 +1,18 @@
+{
+    "name": "com.tiledmedia.showcaseSkyboxes",
+    "version": "1.0.0",
+    "displayName": "Skyboxes Package",
+    "description": "A collection of skybox assets for Unity projects, packaged for use with Unity's Package Manager.",
+    "unity": "2022.3",
+    "keywords": [
+      "skybox",
+      "environment",
+      "graphics"
+    ],
+    "author": {
+      "name": "Simao Soares",
+      "email": "simao@tiledmedia.com",
+      "url": "https://tiledmedia.com"
+    }
+  }
+  
