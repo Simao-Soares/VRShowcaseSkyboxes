@@ -1,5 +1,5 @@
 {
-    "name": "com.tiledmedia.showcaseskyboxes",
+    "name": "com.tiledmedia.skyboxes",
     "version": "1.0.0",
     "displayName": "Skyboxes Package",
     "description": "A collection of skybox assets for Unity projects, packaged for use with Unity's Package Manager.",
